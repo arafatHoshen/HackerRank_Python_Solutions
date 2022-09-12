@@ -3,12 +3,10 @@
 ## HackerRank_Python_Solutions Solutions lists
 
 
-■ Introduction 
-<ul>Introduction/SayHelloWorldWithPython.py</>
-      <ul>Introduction/SayHelloWorldWithPython.py</>
-      <ul>Introduction/SayHelloWorldWithPython.py</>
-      
-      ○ Say Hello, World! With Python
+<ul dir="auto">
+<li>Introduction
+<ul dir="auto">
+<li><a href="Introduction/SayHelloWorldWithPython.py">Say Hello, World! With Python</a></li>
       
       
 
