@@ -3,9 +3,9 @@
 ## HackerRank_Python_Solutions Solutions lists
 
 
-<ul dir="auto">
-<li>Introduction
-<ul dir="auto">
+
+- Introduction
+
 <li><a href="Introduction/SayHelloWorldWithPython.py">Say Hello, World! With Python</a></li>
       
       
