@@ -12,6 +12,6 @@
       
       
 
-- Introduction 
-○ [Say Hello world](Introduction/SayHelloWorldWithPython.py)
+- Introduction <br>
+[Say Hello world](Introduction/SayHelloWorldWithPython.py)
 
