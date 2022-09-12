@@ -5,7 +5,7 @@
 
 
 <ul dir="auto">
-- Introduction
+■ Introduction
 <ul dir="auto">
 <li><a href="Introduction/SayHelloWorldWithPython.py">Say Hello, World! With Python</a></li>
 <li><a href=""></a></li>
