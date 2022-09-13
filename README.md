@@ -14,3 +14,15 @@
 <li><a href="Introduction/Loops.py">Loops</a></li>
 <li><a href="Introduction/Witte_a_function.py">Write a function</a></li>
 <li><a href="Introduction/print_function.py">Print Function</a></li>
+</ul>
+</li>
+  <li>Basic Data Types
+<ul dir="auto">
+<li><a href="/arsho/Hackerrank_Python_Domain_Solutions/blob/master/BasicDataTypes/Lists.py">Lists</a></li>
+<li><a href="/arsho/Hackerrank_Python_Domain_Solutions/blob/master/BasicDataTypes/Tuples.py">Tuples</a></li>
+<li><a href="/arsho/Hackerrank_Python_Domain_Solutions/blob/master/BasicDataTypes/ListComprehensions.py">List Comprehensions</a></li>
+<li><a href="/arsho/Hackerrank_Python_Domain_Solutions/blob/master/BasicDataTypes/FindtheSecondLargestNumber.py">Find the Runner-Up Score!</a></li>
+<li><a href="/arsho/Hackerrank_Python_Domain_Solutions/blob/master/BasicDataTypes/NestedLists.py">Nested Lists</a></li>
+<li><a href="/arsho/Hackerrank_Python_Domain_Solutions/blob/master/BasicDataTypes/Findingthepercentage.py">Finding the percentage</a></li>
+</ul>
+</li>
