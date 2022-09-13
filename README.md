@@ -15,8 +15,7 @@
 <li><a href="Introduction/Witte_a_function.py">Write a function</a></li>
 <li><a href="Introduction/print_function.py">Print Function</a></li>
 
-<ul dir="auto">
-<li><b>Basic<b> </li>
-<ul dir="auto">
 
-
+<ul dir="auto">
+  <li><b>Basic</b></li>
+<ul dir="auto">
