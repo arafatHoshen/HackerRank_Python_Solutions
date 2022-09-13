@@ -4,12 +4,12 @@
 
 
 <ul dir="auto">
-  <li><b>Basic</b></li>
+  <li>Basic</li>
 <ul dir="auto">
   
 
 <ul dir="auto">
-  <li><b>Basic</b></li>
+  <li>Basic</li>
 <ul dir="auto">  
   
   
@@ -17,5 +17,5 @@
 /n 
   
 <ul dir="auto">
-  <li><b>Basic</b></li>
+  <li>Basic</li>
 <ul dir="auto">
