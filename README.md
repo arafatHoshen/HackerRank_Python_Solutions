@@ -13,3 +13,15 @@
 <li><a href="Introduction/Witte_a_function.py">Write a function</a></li>
 <li><a href="Introduction/print_function.py">Print Function</a></li>
 
+## HackerRank_Python_Solutions Solutions lists
+<ul dir="auto">
+   <li><b>Introduction<b> </li>
+<ul dir="auto">
+<li><a href="Introduction/SayHelloWorldWithPython.py">Say Hello, World! With Python</a></li>
+<li><a href="Introduction/Python_If_Else.py">Python If-Else</a></li>
+<li><a href="Introduction/Arithmetic_Operators.py">Arithmetic Operators</a></li>
+<li><a href="Introduction/Python_Division.py">Python: Division</a></li>
+<li><a href="Introduction/Loops.py">Loops</a></li>
+<li><a href="Introduction/Witte_a_function.py">Write a function</a></li>
+<li><a href="Introduction/print_function.py">Print Function</a></li>
+
