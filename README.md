@@ -18,11 +18,11 @@
 </li>
   <li>Basic Data Types
 <ul dir="auto">
-<li><a href="/arsho/Hackerrank_Python_Domain_Solutions/blob/master/BasicDataTypes/Lists.py">Lists</a></li>
-<li><a href="/arsho/Hackerrank_Python_Domain_Solutions/blob/master/BasicDataTypes/Tuples.py">Tuples</a></li>
-<li><a href="/arsho/Hackerrank_Python_Domain_Solutions/blob/master/BasicDataTypes/ListComprehensions.py">List Comprehensions</a></li>
-<li><a href="/arsho/Hackerrank_Python_Domain_Solutions/blob/master/BasicDataTypes/FindtheSecondLargestNumber.py">Find the Runner-Up Score!</a></li>
-<li><a href="/arsho/Hackerrank_Python_Domain_Solutions/blob/master/BasicDataTypes/NestedLists.py">Nested Lists</a></li>
-<li><a href="/arsho/Hackerrank_Python_Domain_Solutions/blob/master/BasicDataTypes/Findingthepercentage.py">Finding the percentage</a></li>
+<li><a href="Basic Data Types/Lists.py">Lists</a></li>
+<li><a href="Basic Data Types/Tuples.py">Tuples</a></li>
+<li><a href="Basic Data Types/List_Comprehensions.py">List Comprehensions</a></li>
+<li><a href="Basic Data Types/FindtheSecondLargestNumber.py">Find the Runner-Up Score!</a></li>
+<li><a href="Basic Data Types/Nested_Lists.py">Nested Lists</a></li>
+<li><a href="Basic Data Types/Findingthepercentage.py">Finding the percentage</a></li>
 </ul>
 </li>
