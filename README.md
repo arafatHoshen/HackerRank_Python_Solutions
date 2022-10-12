@@ -31,11 +31,19 @@
   <li>Strings
 <ul dir="auto">
 <li><a href="Strings/sWAPcASE.py">sWAP cASE</a></li>
-<li><a href="Basic Data Types/Tuples.py">Tuples</a></li>
-<li><a href="Basic Data Types/List_Comprehensions.py">List Comprehensions</a></li>
-<li><a href="Basic Data Types/FindtheSecondLargestNumber.py">Find the Runner-Up Score!</a></li>
-<li><a href="Basic Data Types/Nested_Lists.py">Nested Lists</a></li>
-<li><a href="Basic Data Types/Findingthepercentage.py">Finding the percentage</a></li>
+<li><a href="Strings/StringSplitandJoin.py">String Split and Join</a></li>
+<li><a href="Strings/WhatsYourName.py">What's Your Name?</a></li>
+<li><a href="Strings/Mutations.py">Mutations</a></li>
+<li><a href="Strings/Findastring.py">Find a string</a></li>
+<li><a href="Strings/StringValidators.py">String Validators</a></li>
+<li><a href="Strings/TextAlignment.py">Text Alignment</a></li>
+<li><a href="Strings/TextWrap.py">Text Wrap</a></li>
+<li><a href="Strings/DesignerDoorMat.py">Designer Door Mat</a></li>
+<li><a href="Strings/StringFormatting.py">String Formatting</a></li>
+<li><a href="Strings/AlphabetRangoli.py">Alphabet Rangoli</a></li>
+<li><a href="Strings/Capitalize.py">Capitalize!</a></li>
+<li><a href="Strings/TheMinionGame.py">The Minion Game</a></li>
+<li><a href="Strings/MergeTheTools.py">Merge the Tools!</a></li>
 </ul>
 </li>
 
