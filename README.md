@@ -26,3 +26,20 @@
 <li><a href="Basic Data Types/Findingthepercentage.py">Finding the percentage</a></li>
 </ul>
 </li>
+
+
+  <li>Strings
+<ul dir="auto">
+<li><a href="Strings/sWAPcASE.py">sWAP cASE</a></li>
+<li><a href="Basic Data Types/Tuples.py">Tuples</a></li>
+<li><a href="Basic Data Types/List_Comprehensions.py">List Comprehensions</a></li>
+<li><a href="Basic Data Types/FindtheSecondLargestNumber.py">Find the Runner-Up Score!</a></li>
+<li><a href="Basic Data Types/Nested_Lists.py">Nested Lists</a></li>
+<li><a href="Basic Data Types/Findingthepercentage.py">Finding the percentage</a></li>
+</ul>
+</li>
+
+
+
+
+
