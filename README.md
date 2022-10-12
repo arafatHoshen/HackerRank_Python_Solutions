@@ -3,7 +3,7 @@
 ![HackerRank Python Solutions  HackerRank Python Basic Solutions  HackerRank Python  HackerRank](https://user-images.githubusercontent.com/74883556/189772302-2c3a46cd-566f-40c5-9b32-ea649a28141b.jpg)
 
 
-## HackerRank Python Solutions Solutions lists
+## HackerRank Python Solutions Solutions lists. If you click on the blue line, You will find the code
 <ul dir="auto">
 <li><b>Introduction<b> </li>
 <ul dir="auto">
